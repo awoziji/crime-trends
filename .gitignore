@@ -1,0 +1,8 @@
+.DS_Store
+.ipynb_checkpoints
+archive/
+NYPD-Complaint-Data-Historic.csv
+NYPD-Complaint-Date_Current-YTD.csv
+crime_trends_analysis.csv
+crime_trends_analysis_tool.pdf
+crime_trends_analysis_tool_v2.ipynb
