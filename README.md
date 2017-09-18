@@ -18,11 +18,9 @@ The current approach does not handle crime types affected by seasonality especia
 ### Feedback
 If you find any bugs or suggestions on how to improve the tool, please share your feedback. We welcome any and all improvements.
 
-### Author:
-Benjamin Singleton
+**Author:** Benjamin Singleton
 
-### Published: 
-September 15, 2017
+**Published:** September 15, 2017
 
 ## User Guide
 1. Download Anaconda Python 3.6+ [(download link)](https://www.anaconda.com/download/)
